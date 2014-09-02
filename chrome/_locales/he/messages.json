@@ -1,0 +1,18 @@
+{
+	"appName": {
+		"message": "3D Video Browser",
+		"description": "The title of the application, displayed in the web store."
+		},
+		"appNameTest": {
+			"message": "3D Video Browser",
+			"description": "The title of the application, displayed in the web store."
+			},
+			"appShortName": {
+				"message": "3D Video Browser",
+				"description": "The title of the application, displayed in the web store."
+				},
+				"appDesc": {
+					"message": "3D Video Browser is the new and cool way to use YouTube!", 
+					"description":"The description of the application, displayed in the web store"
+				}
+			}
