@@ -24,20 +24,20 @@ The website uses some external services:
 If you want to test the code using your own keys, this is where you would find them:
 
 MainCtrl.js:
- <your_oauth_2_client_id_here> (line 73) - your OAuth 2 client ID 
- var host = '<your_host_here>' (line 443 - the address of your GAE host)
+ - <your_oauth_2_client_id_here>: (line 73) - your OAuth 2 client ID 
+ - <your_host_here>: (line 443 - the address of your GAE host)
 
 app.yaml:
-<your_app_id_here> (line 1) - your GAE app ID
-youtube_dev_key (line 27) - your YouTube Developer API key
+-<your_app_id_here>: (line 1) - your GAE app ID
+-<youtube_dev_key>: (line 27) - your YouTube Developer API key
 
 index.html
-lin 84 - your Google Analytics UA
-line 104 your add this id - your "Add This" ID
+- <your-UA>: (line 84) - your Google Analytics UA
+- <your add this id>: (line 104) - your "Add This" ID
 
 index-mobile.html
-line 55 - your Google Analytics UA
-line 75 your add this id - your "Add This" ID
+- <your-UA>: (line 55) - your Google Analytics UA
+- <your add this id>: (line 75) your add this id - your "Add This" ID
 
 ## license
 
