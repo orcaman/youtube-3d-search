@@ -29,8 +29,8 @@ MainCtrl.js:
 
 app.yaml:
 
--"your_app_id_here": (line 1) - your GAE app ID
--"youtube_dev_key": (line 27) - your YouTube Developer API key
+- "your_app_id_here": (line 1) - your GAE app ID
+- "youtube_dev_key": (line 27) - your YouTube Developer API key
 
 index.html
 - "your-UA": (line 84) - your Google Analytics UA
