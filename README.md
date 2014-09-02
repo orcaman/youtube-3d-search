@@ -28,6 +28,7 @@ MainCtrl.js:
  - "your_host_here": (line 443 - the address of your GAE host)
 
 app.yaml:
+
 -"your_app_id_here": (line 1) - your GAE app ID
 -"youtube_dev_key": (line 27) - your YouTube Developer API key
 
